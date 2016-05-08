@@ -1,4 +1,6 @@
-# Test Frontend  (WORK IN PROGRESS) Vedere Sezione Todo
+# Test Frontend  (WORK IN PROGRESS)
+- Vedere Sezione Todo
+
  Frameworks:
  - Bootstrap v3.3.5
  - Jquery 1.11.3
@@ -11,7 +13,7 @@
 
 ### Struttura
 - index.html
-- style.min.css  style.css + responisve.css + col-mix.css unificati minificati
+- style.min.css  unfici i segenti files ( style.css + responisve.css + col-mix.css )
                            - Velocizzare il caricamento della struttura e ridurre le richieste di risorse
 - style.css
 - parts/maincontent.html   
@@ -22,7 +24,7 @@
         - main.js
         - js/site.min   (files page.js + main.js  unificati minificati)
                       - Per velocizzare il caricamento della struttura e ridurre le richieste di risorse
-- fonts/ files  font-awesome
+- fonts/ files font awesome
                       - attualemnte non utlizzati nel progetto
 - css/bootstrap.min.css   
     - fontawesome.min.css
@@ -32,7 +34,7 @@
                 - col-mix.css    collonne boostrap personalizzate x il layout
 - assets/bootstrap.js
           - bootstrap.min.js            
-          -  typeahead.js  
+          - typeahead.js  
           - jquery.lazyload.min
 
 #### Todo
