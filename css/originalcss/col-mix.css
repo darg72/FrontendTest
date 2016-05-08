@@ -1,0 +1,27 @@
+@media (min-width: 768px) {
+  .mycol-md-3{
+    .make-md-column(3); /* Replaces .col-md-3; */
+    width: 24%;
+    margin-left: 0.9%;
+  }
+  .mycol-md-2{
+    .make-md-column(2); /* Replaces .col-md-2; */
+    width: 15.66666667%;
+    margin-left: 1%
+  }
+  .mycol-md-1{
+    .make-md-column(1); /* Replaces .col-md-1; */
+    width: 7.33333333%;
+    margin-left: 1%;
+  }
+  .mycol-md-9{
+    .make-md-column(9); /* Replaces .col-md-9; */
+    width: 74%;
+    margin-left:  1%;
+  }
+  .mycol-lg-12{
+    .make-lg-column(12); /* Replaces .col-md-9; */
+    width: 90%;
+    margin:0 auto;
+  }
+}
