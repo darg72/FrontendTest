@@ -1,9 +1,8 @@
-# Test Frontend  (WORK IN PROGRESS)
-- Vedere Sezione Todo
+# Test Frontend  - WORK IN PROGRESS Sezione Todo
 
- Frameworks:
- - Bootstrap v3.3.5
- - Jquery 1.11.3
+ - Frameworks:
+   - Bootstrap v3.3.5
+   - Jquery 1.11.3
 
 ## Utilizzo Necessita
 - Server Locale  Wamp - Xmamp
@@ -13,8 +12,9 @@
 
 ### Struttura
 - index.html
-- style.min.css  unfici i segenti files ( style.css + responisve.css + col-mix.css )
-                           - Velocizzare il caricamento della struttura e ridurre le richieste di risorse
+- style.min.css
+            - unifia i segenti files  style.css + responisve.css + col-mix.css 
+             - Velocizzare il caricamento della struttura e ridurre le richieste di risorse
 - style.css
 - parts/maincontent.html   
         - accedi.html     
@@ -22,8 +22,8 @@
         - come.html
 - js/js/page.js
         - main.js
-        - js/site.min   (files page.js + main.js  unificati minificati)
-                      - Per velocizzare il caricamento della struttura e ridurre le richieste di risorse
+        - js/site.min   files page.js + main.js  unificati minificati
+           - Per velocizzare il caricamento della struttura e ridurre le richieste di risorse
 - fonts/ files font awesome
                       - attualemnte non utlizzati nel progetto
 - css/bootstrap.min.css   
