@@ -6,36 +6,36 @@
 
 ## Utilizzo Necessita
 - Server Locale  Wamp - Xmamp
-- Demo diposnibilie all indirizzo specificato nel file online.txt
+- Demo diposnibilie all indirizzo specificato nel file onlinedemo.txt
 - Cors abilitato x CHROME (CHROME PLUGIN)
 - IE Cambiare le impostazioni di sicurezza personalizate e consentire il cross origin
 
 ### Struttura
 - index.html
 - style.min.css
-            - unifia i segenti files  style.css + responisve.css + col-mix.css 
+            - unifia i segenti files  style.css + responisve.css + col-mix.css
              - Velocizzare il caricamento della struttura e ridurre le richieste di risorse
 - style.css
 - parts/maincontent.html   
-        - accedi.html     
-        - collabora.html    
-        - come.html
+  - accedi.html     
+  - collabora.html    
+  - come.html
 - js/js/page.js
-        - main.js
-        - js/site.min   files page.js + main.js  unificati minificati
-           - Per velocizzare il caricamento della struttura e ridurre le richieste di risorse
+  - main.js
+  - js/site.min   files page.js + main.js  unificati minificati
+  - Per velocizzare il caricamento della struttura e ridurre le richieste di risorse
 - fonts/ files font awesome
-                      - attualemnte non utlizzati nel progetto
+  - attualemnte non utlizzati nel progetto
 - css/bootstrap.min.css   
-    - fontawesome.min.css
-    - fontawesome.css
+  - fontawesome.min.css
+  - fontawesome.css
 - css/originalcss/bootstrap.css  css originale di boostrap
-                - responsive.css css originale responsive
-                - col-mix.css    collonne boostrap personalizzate x il layout
+  - responsive.css css originale responsive
+  - col-mix.css    collonne boostrap personalizzate x il layout
 - assets/bootstrap.js
-          - bootstrap.min.js            
-          - typeahead.js  
-          - jquery.lazyload.min
+  - bootstrap.min.js            
+  - typeahead.js  
+  - jquery.lazyload.min
 
 #### Todo
 - ottimizzazione immagini (compressione e dimensioni),
