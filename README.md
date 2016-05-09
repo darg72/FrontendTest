@@ -1,5 +1,5 @@
-# Test Frontend  - WORK IN PROGRESS
-***Seszione todo***
+# Test Frontend  ***(WORK IN PROGRESS - Sezione todo***
+
  - Frameworks:
    - Bootstrap v3.3.5
    - Jquery 1.11.3
