@@ -7,7 +7,7 @@
 
 ## Istruzioni
 - Server Locale  Wamp - Xmamp
-- Demo diposnibilie all indirizzo specificato nel file onlinedemo.txt
+- Demo Sever online Link nel file onlinedemo.txt
 - Cors abilitato x CHROME (CHROME PLUGIN)
 - IE Cambiare le impostazioni di sicurezza personalizzate e consentire il cross origin
 
@@ -50,11 +50,13 @@
   - jquery.lazyload.min
 
 #### Todo
+- migliore il precaricamento risorse/contenuti
 - ottimizzazione immagini (compressione e dimensioni),
 - migliore inclusione del video embedd in iframe  e verifica per mobile andoroid v.5.0 / v.5.0++ video play
 - rules per la convalida form da implementare
 - migliorare append dinamico input all'elemento form in accedi.html
 - verifica  selezione del form scelto su evento on click - plugin
+
 
 
 ##### Scelte

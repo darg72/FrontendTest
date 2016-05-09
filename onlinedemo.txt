@@ -1,1 +1,9 @@
+Demo Server
 http://devlp.altervista.org/pro/
+
+Tools Online test
+http://tools.pingdom.com/fpt/#!/dPPDeU/http://devlp.altervista.org/pro/
+
+http://design.google.com/resizer/#url=http%3A%2F%2Fdevlp.altervista.org%2Fpro%2F
+
+https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fdevlp.altervista.org%2Fpro%2F&tab=desktop
