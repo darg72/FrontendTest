@@ -4,17 +4,25 @@
    - Bootstrap v3.3.5
    - Jquery 1.11.3
 
-## Utilizzo Necessita
+## Istruzioni
 - Server Locale  Wamp - Xmamp
 - Demo diposnibilie all indirizzo specificato nel file onlinedemo.txt
 - Cors abilitato x CHROME (CHROME PLUGIN)
 - IE Cambiare le impostazioni di sicurezza personalizate e consentire il cross origin
 
+- Descrizione Generale
+  - pages.js
+    - Paginazione Dinamica
+  - main.js
+    - chiamate ajax
+
+
 ### Struttura
 - index.html
 - style.min.css
-            - unifia i segenti files  style.css + responisve.css + col-mix.css
-             - Velocizzare il caricamento della struttura e ridurre le richieste di risorse
+  - unifica i segenti files
+    - style.css + responisve.css + col-mix.css
+      - Scopo : Velocizzare il caricamento della struttura e ridurre le richieste di risorse
 - style.css
 - parts/maincontent.html   
   - accedi.html     
@@ -22,8 +30,10 @@
   - come.html
 - js/js/page.js
   - main.js
-  - js/site.min   files page.js + main.js  unificati minificati
-  - Per velocizzare il caricamento della struttura e ridurre le richieste di risorse
+  - js/site.min
+    - files page.js
+      - unfica i seguenti files + main.js  
+       - Scopo : Velocizzare il caricamento della struttura e ridurre le richieste di risorse
 - fonts/ files font awesome
   - attualemnte non utlizzati nel progetto
 - css/bootstrap.min.css   
@@ -46,13 +56,24 @@
 
 
 ##### Scelte
-- Boostrap  
-- Jquery
+- Bootstrap v3.3.5
+   - Documentazione completa
+   - elevata  compatibilità testata borswer
+   - possbilità di personalizzare compomenenti
+   - possibilità di utilizzo preprocessori Sass/Less
+
+- Jquery 1.11.3
+- Documentazione completa
+- elevata  compatibilità testata borswer
+- possbilità di personalizzare di integrazione plugin
+- buona integrazione con altri linguaggi - no conflict
+
 - Plugins
   - lazyload plugin utlizzato per ottimizzazione del caricamento immagine di sfondo (low-res normal-res)
   - tyepeahed per autosearch plugin per autosearch richiamato
 
 ###### Note
-- testato su broswer Desktop ie 9 ++ ; Chrome ; Firefox; Safari 5.1 windows
+- testato sui seguenti broswer :
+- Desktop ie 9 ++ ; Chrome ; Firefox; Safari 5.1 windows
 - Mobile  android    4.4.2 broswer stock
 - Mobile  andorid  lollipop broswer stock
